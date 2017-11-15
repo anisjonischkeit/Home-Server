@@ -1,0 +1,11 @@
+{
+  "name": "home.anis.com.au",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/anisjonischkeit/Home-Server.git",
+  "author": "Anis Jonischkeit <anis.jonischkeit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
