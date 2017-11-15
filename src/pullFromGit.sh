@@ -1,3 +1,3 @@
 git pull;
-npm install;
+yarn install;
 node server.js;
